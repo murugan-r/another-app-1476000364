@@ -1,0 +1,1 @@
+{"name":"Another app","repository":"https://github.com/murugan-r/another-app-1476000364","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true}}}
